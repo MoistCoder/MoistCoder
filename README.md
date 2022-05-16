@@ -8,6 +8,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moistcoder&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most%20Used%20Coding%20Languages"/>
+</p>
+
 ## Skills
 
 <img width="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png" /> C/C++ (learning)
@@ -26,6 +30,8 @@
 
 ## Contact
 
-Mail: voidcoder0@gmail.com
+<p align="center">
+  <img src="https://discord.c99.nl/widget/theme-3/882557235321012245.png" alt="Discord Contact" />
+</p>
 
-Discord: hash#8510
+Mail: voidcoder0@gmail.com
