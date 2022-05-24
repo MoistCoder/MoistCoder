@@ -1,4 +1,4 @@
-<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
+<p align="center"><img width="30%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif"/></p>
 
 <p align="center">Hi! I'm MoistCoder, a german software engineer and cyber security enthusiast.</p>
 
