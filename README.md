@@ -31,7 +31,7 @@
 ## Contact
 
 <p align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/882557235321012245.png" alt="Discord Contact" />
+  <img src="https://discord.c99.nl/widget/theme-2/882557235321012245.png" alt="Discord Contact" />
 </p>
 
 Mail: voidcoder0@gmail.com
